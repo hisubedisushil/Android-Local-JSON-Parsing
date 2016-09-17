@@ -1,0 +1,589 @@
+{
+    "Products": {
+        "Product": [
+            {
+				"parent_id" : "1",
+                "product_id": "1",
+                "name" : "KETA-KETI JEEVAN BEEMA",
+				"sub_name" : "",
+				"description" : "Every parent spuns dreams for better education marriage and successful life for their offsprings. In this context, Nepal Life Insurance Company for the first time in the Insurance Industry of the country, launched a product with the sole aim of providing a tool of having risk coverage of life of child and making future provision for the education, marriage and financial support for the wards of aspiring parents. The salient features of plan are:
+				<ol>
+<li>Policy can be issued on the life of just-born child till age of eleven, proposed by either of the parent.</li>
+<li>The risk on the life of child to start after comletion of 7 years of age of child,if his her age is below 7.</li>
+<li>In case of child who has completed his age 8 or 9 the risk shall commence from age 10.</li>
+<li>Minimum Sum Assured Rs. 100,000 and maximum Rs. 50,00,000.</li>
+<li>The term of this policy is 19 minus age of child at commencement of policy.</li>
+<li>Maturty age 19 year of child(fixed)</li>
+<li>The policy vests in the child at 18 years of age.</li>
+<li>Policy premium frequency:Either yearly, Half Yearly or quarterly with certain conditions.</li>
+<li>Premium waiver Benefit available on the life of proposer(either of parent only)with extra payment.</li>
+<li>Surrender as per condition but no loan available.</li>
+<li>No accident benefit available on the life of child.</li>
+<li>Policy participates in profits.</li>
+</ol>",
+				"issue_date" : "2003-02-01",
+				"view" : "9004"
+            },
+			{
+				"parent_id" : "1",
+                "product_id": "2",
+                "name" : "BAL SHIKSHA BEEMA YOJNA",
+				"sub_name" : "NEPAL LIFE SUNISCHIT BHAWISHYA TATHA SIKSHA SAWADHIK JEEVAN BEEMA",
+				"description" : "Eligibility Conditions<table border='1' cellspacing='0' cellpadding='0'>
+<tbody>
+<tr>
+<td colspan='2'>Entry Age</td>
+</tr>
+<tr>
+<td>Child Age</td>
+<td>From birth till 18 yrs</td>
+</tr>
+<tr>
+<td>Proposer Age</td>
+<td>2065 yrs</td>
+</tr>
+</tbody>
+</table>
+Policy Term: 5 to 30 years (By the end of the term the age of the child should not exceed 30 years and the age of the proposer should not exceed 70 yrs)
+Sum Assured: Proposer NPR. 50 thousand to 1 Crore
+Child NPR. 50 thousand to NPR. 25 Lakhs
+Risk Coverage Fee: NPR. 1/- per thousand of childs sum assured
+Discount and extra charges on premium amount
+<table border='1' cellspacing='0' cellpadding='0'>
+<tbody>
+<tr>
+<td colspan='2'>
+Discount on Premium</td>
+</tr>
+<tr>
+<td>5.01.10 lakhs</td>
+<td>NPR. 1/- per thousand of premium amount</td>
+</tr>
+<tr>
+<td>Above 10 lakhs</td>
+<td>NPR. 2/- per thousand of premium amount</td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<table border='1' cellspacing='0' cellpadding='0'>
+<tbody>
+<tr>
+<td colspan='2'>Extra Charges on Premium (According to Payment Option)</td>
+</tr>
+<tr>
+<td>Annual</td>
+<td>No extra charge</td>
+</tr>
+<tr>
+<td>Half Yearly</td>
+<td>Extra 1% on premium</td>
+</tr>
+<tr>
+<td>Quarterly</td>
+<td>Extra 2% on premium</td>
+</tr>
+<tr>
+<td>Monthly</td>
+<td>Extra 3% on premium</td>
+</tr>
+</tbody>
+</table>
+Special Features:
+<ol>
+	<li>Proposer's sum assured and respective bonus shall be paid to the proposer in case of maturity of the plan and if the proposer is alive*.</li>
+	<li>In case of the demise of the proposer within the policy term
+<ol>
+	<li>Bonus calculated till the time of the proposers death and premium waiver after that till the end of term.</li>
+	<li>After the demise of the proposer, 10% of the sum assured shall be paid on an annual basis till the end of the term. If any amount remains after the payment of 10% sum assured annually till the end of the term then that amount shall be paid to the child / nominee.</li>
+</ol>
+</li>
+	<li>In case of the demise of the insured child after the start of the policy term<strong>#</strong>, the sum assured of the child shall be paid and the policy shall remain enforced for the proposer. Regular premium will have to be paid till the end of the term.</li>
+	<li>Loan facility shall be available after 1 year of policy enforcement.</li>
+</ol>
+* In case of the end of the policy term with or without the demise of the proposer and if the child is alive by that time then no amount of the childs sum assured will be paid.
+# Risk coverage of child shall start from 2 years after the enforcement of the policy or by the time the child is 5 yrs old (whichever comes first).
+
+Product's Special Features
+- Entry Age - From birth till 18 yrs
+- One policy, double risk coverage (Proposer &amp; Child)
+- Maturity amount received can be utilized for child's education
+- In case of death of the proposer, regular fixed income will be provided to the child to ensure the child's education till maturity
+- Loan facility available after 1 year of policy enforcement",
+				"issue_date" : "2013-11-21",
+				"view" : "4470"
+            },
+			{
+				"parent_id" : "2",
+                "product_id": "3",
+                "name" : "SURAKSHIT JEEVAN BEEMA YOJANA",
+				"sub_name" : "",
+				"description" : "It is an endowment plan. It can be taken by anyone in the age group between the age of 11 years to 60 years. The maximum age on maturity is 65 years. Under this plan the insured amount (Sum Assured) with bonus is payable at the end of the specified period or on death of the life assured before expiry of the term. This is the most popular insurance plan. By selecting the term judiciously , one can provide for old age and get risk cover for the selected term.
+
+<strong>Features of Surakshit Jeevan Beema Yojana:</strong>
+<ol>
+	<li>It can be taken by anyone in the age group between the age of 11 years to 60 years.</li>
+	<li>Maximum age on maturity is 65 years.</li>
+	<li>Under this plan loan upto 90% of the surrender value after the policy has completed two years term.</li>
+	<li>Minimum Sum Assured is Rs.25,000/- and Maximum Sum Assured depends upon the income source of life to be assured.</li>
+	<li>Premium can be paid Yearly, Half-Yearly and Quarterly basis.</li>
+</ol>
+For example a person aged 30 years going in for insurance under this plan for 20 years for Sum Assured 1 lakh will have to pay annual premium of Rs. 4,896/-. He will get Rs.1 lakh plus bonus at the end of the term. In case of earlier death his nominee will get Rs. 1 lakh plus bonus thereon subject to all premiums having been paid.",
+				"issue_date" : "2001-04-23",
+				"view" : "9936"
+            },
+			{
+				"parent_id" : "2",
+                "product_id": "4",
+                "name" : "JEEVAN SARATHI BEEMA YOJANA",
+				"sub_name" : "",
+				"description" : "NepalLife has introduced a new kind of policy in Nepali market. It is a joint life policy. Under this plan risk of both husband and wife is covered by a single policy. Upon the death of spouse, insured amount is paid to alive husband or wife and remaining premium (installment) which has to be paid by the alive patner to the company will be waived. Again the insured amount along with bonus is paid on maturity.
+
+<strong>Features of Jeevan Sarathi Beema Yojana:</strong>
+<ol>
+	<li>It can be taken by anyone in the age group between the age of 18 years to 50 years.</li>
+	<li>Maximum age on maturity is 65 years.</li>
+	<li>Under this plan loan upto 90% of the surrender value after the policy has completed two years term.</li>
+	<li>Minimum Sum Assured is Rs. 50,000/- and Maximum Sum Assured depends upon the income sources of lives to be assured.</li>
+	<li>Minimum Premium paying term is 15 years and maximium premium paying term is 30 years</li>
+	<li>Premium can be paid Yearly, Half-Yearly and Quarterly basis.</li>
+</ol>
+<strong>Accidental Benefit :?</strong>
+Accidental Benefit is available to both the partners on payment of Rs. 1/- per thousand. This covers the accidental death risk. If a insured partner dies in accident additional sum equal to insured Amount (Sum Assured) will be paid to the living partner. At present total maximum Accidental Benefit coverage amount is Rs. 4,00,000/-.
+
+<strong>Payment on Maturity :?</strong>
+Insured Amount (Sum Assured) along with Bonus will be paid at the time of maturity.
+
+<strong>Payment on Death:</strong>
+<ol>
+	<li>In case of death of one partner before the maturity date, Sum Assured will be paid to the living insured partner. Policy will continue till maturity without paying the remaining premium (installment) by the living partner, and finallly Sum Assured along with Bonus will be paid to the living partner at the time of maturity. This plan has the benefit of providing Insured Amount (Sum Assured) two times.</li>
+	<li>In case of death of both the insured partners before maturity the Insured Amount (Sum Assured) along with Bonus will be paid to the nominee.</li>
+</ol>",
+				"issue_date" : "",
+				"view" : ""
+            },
+			{
+				"parent_id" : "2",
+                "product_id": "5",
+                "name" : "RURAL ENDOWMENT PLAN",
+				"sub_name" : "",
+				"description" : "Life insurance is a security which everyone deserve to have. However, due to financial constraints, many individuals cannot buy insurance for themselves and their families. Rural Endowment Plan, specially designed to address social security needs of rural areas.
+
+This plan is a regular premium endowment with profit plan with built in accident benefit.
+
+This plan, unlike a typical social commercial life insurance policy, offer assistance tofamilies with lower income and lesser savings and has following key features.
+<ol>
+	<li>Simplified policy issue procedure</li>
+	<li>Inbuilt Accidental death benefit without extra cost</li>
+	<li>Grace period of 60 days to cater rural needs</li>
+	<li>Good Investment Plan with Death Risk Coverage</li>
+	<li>Simplified and Hassle-free claim procedure</li>
+</ol>
+<strong>KEY BENEFITS:</strong>
+
+a) <strong>Death Benefit</strong>:
+
+i) Death during 1st year of the policy:
+
+(1) Double sum assured only in case of accidental death.
+
+(2) Refund of premium in case of natural death excluding all extra /additional premiums.
+
+ii) Death after completion of one year till date of Maturity:
+
+(1) Double Sum Assured along with vested bonuses in case of accidentaldeath.
+
+(2) Full Sum Assured along with vested bonuses in case of natural death.
+
+b) <strong>Maturity Benefit</strong>: On survival to maturity date sum assured plus bonus declaredand vested in the policy.
+
+c) <strong><em>Premiums</em></strong> are payable during the term of the policy or till death, if it occurs, during theterm of the policy.
+
+<strong>OTHER FEATURES:</strong>
+<ol>
+	<li><strong>Grace Period:</strong>The grace period of 60 days is given for premium payment to make sure that policiesare not lapsed unless absolutely necessary.</li>
+	<li><strong>Reinstatement: </strong>Possible up to five years from the last unpaid premium. Penalty charged at 10% p.a.In case of reinstatements after 6-months a health declaration has to be signed</li>
+	<li><strong>Surrender: </strong>Zero surrender values for the first two years. Surrender value will be as per BeemaSamiti guidelines.</li>
+	<li><strong>Loan: </strong>Policy loan shall be available after the policy acquires paid-up/surrender value. Policy Loan shall be maximum of 90% of the surrender value.</li>
+	<li><strong>Lapses: </strong>Non-payment of premium beyond the grace period results in lapse of policy.</li>
+	<li><strong>Paid up value: </strong>If payment of premiums is discontinued after at least two years? premiums have beenpaid, a paid up policy for an amount bearing the same proportion to the sum assured asthe number of premiums actually paid bears to the number stipulated for in the policy,will be automatically secured. Such reduced paid up policy will not be entitled toparticipate in the profits declared thereafter.</li>
+</ol>
+<strong>SALIENT FEATURES:</strong>
+<ol>
+	<li><em>Age at Entry</em> : 16 years to 60 years</li>
+	<li><em>Maximum Maturity Age</em> : 65 years</li>
+	<li><em>Terms of Policy</em> : 5 years to 49 years</li>
+	<li><em>Minimum Sum Assured</em>: NRs. 10,000</li>
+	<li><em>Maximum Sum Assured</em>: NRs. 200,000</li>
+	<li><em>Premium Payment Mode</em>: Monthly, Quarterly, Half-Yearly and Yearly</li>
+</ol>",
+				"issue_date" : "2016-07-12",
+				"view" : "294"
+            },
+			{
+				"parent_id" : "3",
+                "product_id": "6",
+                "name" : "JEEVAN LAXMI",
+				"sub_name" : "TRIPLE BENEFIT SCHEME WITH BONUS",
+				"description" : "The plan is the Triple Benefit Endowment Plan with Bonus payable on the following terms:
+<ol>
+	<li>Basic Sum Assured with bonus payable on maturity</li>
+	<li>Two times of Basic Sum Assured with proportionate final bonus payable on normal death under inforce policy within policy term.</li>
+	<li>Three times of Basic Sum Assured with proportionate bonus payable in case of accidental death under inforce policy within policy term.</li>
+	<li>Minimum Sum Assured is Rs. 50,000 and maximum Rs. 100,000</li>
+	<li>Minimum entry age is 16 yrs and maxmimum entry age is 50 yrs</li>
+	<li>Minimum term is 7 yrs and maxium term is 25 yrs or maximum age of 60 yrs which ever is earlier.</li>
+	<li>The mode of payment is either yearly or half yearly.</li>
+</ol>",
+				"issue_date" : "2006-09-08",
+				"view" : "6574"
+            },
+			{
+				"parent_id" : "3",
+                "product_id": "7",
+                "name" : "JEEVAN JYOTI",
+				"sub_name" : "",
+				"description" : "This plan is most popular form of life assurance. It makes provision for the family of the Assured in the event of early death, as also assures a lump sum amount at a desired age. The amount assured, if not paid by reason of earlier death, becomes payable at the end of the endowment term.
+
+If the payment of premiums is discontinued after at least three years? premiums have been paid, a paid up policy of an amount bearing the same proportion to the sum assured as the numbers of premiums actually paid bears to the number stipulated for in the policy, will be automatically secured. Such reduced paid up policy will not be entitled to participate in the profits declared thereafter.
+<h2>Features of Jeevan Jyoti:</h2>
+Plan Name: Jeevan Jyoti Plan
+Term Of returning of Sum Assured: After Maturity of the Policy or assurance early death.
+Maximum Plan Term: 30 years
+Minimum Plan Term: 10 Years
+Entry Age Level : 11 Years
+Maximum Age Level : 60 Years
+Minimum Sum Assured: 50,000/-
+Maximum Sum Assured : According to the imcome of the assurance.
+Accidental Benefit : ADB/PWB/PTD Available for Age at entry 16 years and above.
+Loan : Policy Being running for at least 1 year for Single Premium mode and after 2 yearly premium payment for other mode.
+
+&nbsp;
+<table>
+<tbody>
+<tr>
+<td colspan=''><strong>Premium Paid Term</strong></td>
+</tr>
+<tr>
+<td><strong>Terms Of Policy in Years:</strong></td>
+<td>10</td>
+<td>15</td>
+<td>20</td>
+<td>25</td>
+<td>30</td>
+</tr>
+<tr>
+<td><strong>Premium Paying Term in Years</strong></td>
+<td>1/5</td>
+<td>1/5/10</td>
+<td>1/5/10/15</td>
+<td>1/5/10/15/20</td>
+<td>1/5/10/15/20/25</td>
+</tr>
+</tbody>
+</table>",
+				"issue_date" : "2012-03-06",
+				"view" : "2851"
+            },
+			{
+				"parent_id" : "4",
+                "product_id": "8",
+                "name" : "JEEVAN UNNATI PLAN",
+				"sub_name" : "",
+				"description" : "We all strive to provide ?The Best? to our family to accomplish their dreams and aspirations and to ensure happiness at every stage of life. Sometimes we may have to say ?No? due to financial constraints; wouldn?t it be great if we never had to say ?No??
+
+To support you in achieving the dreams and aspirations of your family, Nepal Life Insurance presents Limited payment Money back plan a savings and protection plan that provides lump sum payouts at regular intervals to meet your interim financial requirements and provide the best for your family, while maintaining full risk cover for the entire period.
+
+Key Benefits:
+<ul>
+	<li>Money back at regular intervals.</li>
+	<li>On maturity, only bonuses declared and vested in the policy plus 40% of Sum Assured will be paid.</li>
+	<li>In case of the death of the life insured before maturity, death benefit equal to 2.5 times of basic Sum Assured in case of single payment mode, basic sum assured only in case of other payment mode plus bonuses declared and vested in the policy as on the date of death; without deduction of survival benefits already paid as per below Money Back Schedule.</li>
+</ul>
+Money-back, Payment Schedule &amp; Death Benefit:
+<table border='1' cellspacing='0' cellpadding='0'>
+<tbody>
+<tr>
+<td>Policy Term</td>
+<td>Premium Paying Term</td>
+<td colspan='2'>Survival Benefit (Money Back)</td>
+<td>Maturity Payment</td>
+<td>In case of death within policy Term</td>
+</tr>
+<tr>
+<td rowspan='2'>12 yrs</td>
+<td rowspan='2'>10 yrs or Single</td>
+<td>After 4 years</td>
+<td>30% of Sum Assured</td>
+<td rowspan='2'>40% of Sum Assured plus Bonus</td>
+<td rowspan='2'>In case of single premium mode - 2.5 times of sum assured with bonus of basic assured,
+Other payment option- Basic sum assured with bonus</td>
+</tr>
+<tr>
+<td>After 8 years</td>
+<td>30% of Sum Assured</td>
+</tr>
+<tr>
+<td rowspan='3'>16yrs</td>
+<td rowspan='3'>14 yrs or Single</td>
+<td>After 4 years</td>
+<td>20% of Sum Assured</td>
+<td rowspan='3'>40% of Sum Assured plus Bonus</td>
+<td rowspan='3'>In case of single premium mode - 2.5 times of sum assured with bonus of basic assured,
+Other payment option- Basic sum assured with bonus</td>
+</tr>
+<tr>
+<td>After 8 years</td>
+<td>20% of Sum Assured</td>
+</tr>
+<tr>
+<td>After 12 years</td>
+<td>20% of Sum Assured</td>
+</tr>
+<tr>
+<td rowspan='4'>20 yrs</td>
+<td rowspan='4'>18 yrs or Single</td>
+<td>After 4 years</td>
+<td>15% of Sum Assured</td>
+<td rowspan='4'>40% of Sum Assured plus Bonus</td>
+<td rowspan='4'>In case of single premium mode - 2.5 times of sum assured with bonus of basic assured,
+Other payment option- Basic sum assured with bonus</td>
+</tr>
+<tr>
+<td>After 8 years</td>
+<td>15% of Sum Assured</td>
+</tr>
+<tr>
+<td>After 12 years</td>
+<td>15% of Sum Assured</td>
+</tr>
+<tr>
+<td>After 16 years</td>
+<td>15% of Sum Assured</td>
+</tr>
+</tbody>
+</table>
+<strong>Policy Eligibility:</strong>
+<ol>
+	<li>Age at Entry : 16 years to 58 years</li>
+	<li>Maximum Maturity Age : 70 years</li>
+	<li>Minimum Sum Assured : Rs.50,000</li>
+	<li>Premium Payment mode: Single, Yearly, Half-Yearly, Quarterly and Monthly</li>
+	<li>ADB/PWB/TPD: [Accident only- Available for Age at entry 16 years and above]. Available for full policy term, equal to sum assured but not more than 30,000,000 by payment of additional premium during premium paying term subject to maximum age of 70 years.</li>
+</ol>",
+				"issue_date" : "2015-08-07",
+				"view" : "3004"
+            },
+			{
+				"parent_id" : "4",
+                "product_id": "9",
+                "name" : "NAULO DHANBARSHA PLAN",
+				"sub_name" : "",
+				"description" : "Naulo Dhanbarsha is Limited Payment Money-back (Anticipated) Endowment Plan. Company has launched this product after successful launching of previous anticipated endowment plan keeping in mind the customer demands requiring more money-back during the policy terms. During the policy terms there shall be 5 payments thus creating more liquidity option during the policy periods as well as policy loan is available after one year after paying 2 yearly premiums. The risk of death of insured is covered through the period and whereas premium payment are made for limited terms only.
+<table border='1' cellspacing='0' cellpadding='0'>
+<tbody>
+<tr>
+<td><strong>Policy Term</strong></td>
+<td><strong>Premium Payment Term</strong></td>
+<td colspan='2'><strong>Pre ? payment (Money Back)</strong></td>
+<td><strong>Bonus Payment</strong></td>
+<td><strong>In case of death within Insurance Term</strong></td>
+</tr>
+<tr>
+<td>10 yrs</td>
+<td>8 yrs</td>
+<td>After 2 years
+After 4 years
+After 6 years
+After 8 Years</td>
+<td>10% of Sum Assured
+20% of Sum Assured
+30% of Sum Assured
+40% of Sum Assured</td>
+<td>After 10 years</td>
+<td>Sum Assured with bonus</td>
+</tr>
+<tr>
+<td>15 yrs</td>
+<td>12 yrs</td>
+<td>After 3 years
+After 6 years
+After 9 years
+After 12 Years</td>
+<td>10% of Sum Assured
+20% of Sum Assured
+30% of Sum Assured
+40% of Sum Assured</td>
+<td>After 15 years</td>
+<td>Sum Assured with bonus</td>
+</tr>
+<tr>
+<td>20 yrs</td>
+<td>16 yrs</td>
+<td>After 4 years
+After 8 years
+After 12 years
+After 16 years</td>
+<td>10% of Sum Assured
+20% of Sum Assured
+30% of Sum Assured
+40% of Sum Assured</td>
+<td>After 20 years</td>
+<td>Sum Assured with bonus</td>
+</tr>
+<tr>
+<td>25 yrs</td>
+<td>20 yrs</td>
+<td>After 5 years
+After 10 years
+After 15 years
+After 20 years</td>
+<td>10% of Sum Assured
+20% of Sum Assured
+30% of Sum Assured
+40% of Sum Assured</td>
+<td>After 25 years</td>
+<td>Sum Assured with bonus</td>
+</tr>
+</tbody>
+</table>
+Premium Payment: Premium can be paid either monthly, quarterly, half-yearly or yearly mode. If customer wishes to pay all premiums at once, he can choose single premium mode too.
+Death Risk: Sum Assured plus acquired bonus shall be payable to nominee or next kin of insured as per Insurance Act without deducting any pre-payment (money back) made earlier if any. In case of single premium payment mode 2.5 of Sum Assured plus acquired bonus shall be payable.
+Rider: Combined Accidental Death Benefit (ADB), Permanent Total Disability (PTD) and Premium Waiver Benefit (PWB) riders are available under this plan. If insured dies within the policy terms due to accident, then additional amount equal to Sum Assured not exceeding 2.5 million shall be paid to nominee or his/her next kin. If Insured becomes permanent total disable as stated in policy bond due to accident then his/her future premium of Sum Assured not exceeding 2.5 million shall be waived and insured shall get an amount equal to Sum Assured not exceeding 2.5 million shall be paid in 120 monthly equal installments, as well as policy shall remain enforced.
+Entry Age: 16 Yrs to 60 Yrs
+Maximum Age at Exit: 70 Yrs",
+				"issue_date" : "2014-08-21",
+				"view" : "3187"
+            },
+			{
+				"parent_id" : "4",
+                "product_id": "10",
+                "name" : "NAULO JEEVAN SAMBRIDDHI",
+				"sub_name" : "",
+				"description" : "Naulo Jeevan Sambridi is Limited Payment Money-back (Anticipated) Endowment Plan. Company has launched this product after successful launching of previous anticipated endowment plan (Jeevan Sambdirhi) keeping in mind the customer demands requiring more money-back during the policy terms. This product has added features of single premium payment option, policy loan availability after one year after paying 2 yearly premium, modified ADB/PTD/PWB facilities and added policy tenure of 10 and 25 yrs. During the policy terms there shall be sum assured payment before the policy maturity at the interval of 4 yrs from date of policy issue. ?The risk of death of insured is covered through the period and whereas premium payment are made for limited terms only.
+<table border='1' cellpadding='0'>
+<tbody>
+<tr>
+<td><strong>Policy Term</strong></td>
+<td><strong>Premium Payment Term</strong></td>
+<td colspan='2'><strong>Pre ? payment (Money Back)</strong></td>
+<td><strong>Bonus Payment</strong></td>
+<td><strong>In case of death within Insurance Term</strong></td>
+</tr>
+<tr>
+<td>10 yrs</td>
+<td>10 yrs</td>
+<td>After 4 years
+After 8 years</td>
+<td>40% of Sum Assured
+60% of Sum Assured</td>
+<td>After 10 years</td>
+<td>Sum Assured with bonus</td>
+</tr>
+<tr>
+<td>15 yrs</td>
+<td>12 yrs</td>
+<td>After 4 years
+After 8 years
+After 12 years</td>
+<td>30% of Sum Assured
+30% of Sum Assured
+40% of Sum Assured</td>
+<td>After 15 years</td>
+<td>Sum Assured with bonus</td>
+</tr>
+<tr>
+<td>20 yrs</td>
+<td>16 yrs</td>
+<td>After 4 years
+After 8 years
+After 12 years
+After 16 years</td>
+<td>20% of Sum Assured
+20% of Sum Assured
+20% of Sum Assured
+40% of Sum Assured</td>
+<td>After 20 years</td>
+<td>Sum Assured with bonus</td>
+</tr>
+<tr>
+<td>25 yrs</td>
+<td>20 yrs</td>
+<td>After 4 years
+After 8 years
+After 12 years
+After 16 years
+After 20 years</td>
+<td>15% of Sum Assured
+15% of Sum Assured
+15% of Sum Assured
+15% of Sum Assured
+40% of Sum Assured</td>
+<td>After 25 years</td>
+<td>Sum Assured with bonus</td>
+</tr>
+</tbody>
+</table>
+<strong>Premium Payment</strong>: Premium can be paid either monthly, quarterly, half-yearly or yearly mode. If customer wishes to pay all premiums at once, he can choose single premium mode too.
+<strong>Death Risk</strong>: Sum Assured plus acquired bonus shall be payable to nominee or next kin of insured as per Insurance Act without deducting any pre-payment (money back) made earlier if any. In case of single premium payment mode 2.5 of Sum Assured plus acquired bonus shall be payable.
+<strong>Rider:</strong>?Combined Accidental Death Benefit (ADB), Permanent Total Disability (PTD) and Premium Waiver Benefit (PWB) riders are available under this plan. If insured dies within the policy terms due to accident, then additional amount equal to Sum Assured not exceeding 2.5 million shall be paid to nominee or his/her next kin. If Insured becomes permanent total disable as stated in policy bond due to accident then his/her future premium of Sum Assured not exceeding 2.5 million shall be waived and insured shall get an amount equal to Sum Assured not exceeding 2.5 million shall be paid in 120 monthly equal installments, as well as policy shall remain enforced.
+<strong>Entry Age</strong>: 16 Yrs to 60 Yrs
+<strong>Maximum Age at Exit</strong>: 70 Yrs",
+				"issue_date" : "2014-12-23",
+				"view" : "4163"
+            },
+			{
+				"parent_id" : "5",
+                "product_id": "11",
+                "name" : "JEEVAN SAHARA",
+				"sub_name" : "",
+				"description" : "The plan is specially designed Endowment product to cover the wide range of risk for our social communities of Nepal:
+
+The insured amount (sum assured) together with bonus is payable on maturity date and full insured amount (sum assured) again payable on death of life assured after maturity.
+<ol>
+	<li>In case of death before maturity date under inforce policy, the insured amount (sum assured) and whatever bonus declared is payable.</li>
+	<li>insured amount (sum assured) is payable in case of death of the policy holder after maturity of policy term.</li>
+	<li>Minimum insured amount (sum assured) is Rs. 100,000 and no limit for maximum insured amount (sum assured) depending upon the income source of the proposer.</li>
+	<li>Minimum entry age is 16 yrs and maximum entry age is 65 yrs.</li>
+	<li>Minimum term is 5 yrs and maximum term is 54 yrs or maximum age of 70 yrs which ever is earlier.</li>
+	<li>The mode of payment is either yearly, half yearly or quarterly.</li>
+</ol>",
+				"issue_date" : "2006-06-28",
+				"view" : "4976"
+            },
+			{
+				"parent_id" : "6",
+                "product_id": "12",
+                "name" : "GROUP INSURANCE PLAN",
+				"sub_name" : "",
+				"description" : "This plan enables employers to provide life insurance benefit to their employees at low rate of premium. It is a hassle free plan wherein risk coverage is given up to the normal retirement date without any health requirements up to age 45 and with only declaration of good health thereafter. The savings made through the simple scheme of administration is passed on to the employees by substantial reduction in premium.
+
+The minimum age at entry is 18 years and maximum age at entry is 55 years. The S.A. allowed varies from Rs. 50,000 to Rs. 3,50,000 depending upon the category. The group size of 50 employees, contribution of minimum of 50% of premium by the employer, joining of the scheme by a minimum of 75% of confirmed employees on introduction and compulsory joining by employees recruited thereafter are some of the binding features of the scheme. Variations in the scheme and its benefits are possible depending on the size and composition of the group and participation of the employer.
+
+The company is trying to sell the above products in large scale so as to fulfill its mission of providing social security to every eligible citizen and also for spreading and creating awareness about the need of insurance. With increase in insurance awareness among the general public and specific target groups the company plans to bring in new products having greater risk/term insurance components. It also plans to bring in products providing pensions, health care and plans with multiple add on/optional advantages and risk covers.",
+				"issue_date" : "",
+				"view" : "1753"
+            },
+			{
+				"parent_id" : "6",
+                "product_id": "13",
+                "name" : "NEW TERM LIFE INSURANCE",
+				"sub_name" : "",
+				"description" : "New Term Life Insurance is one of the unique products which make provision for the family of the Assured in the event of early death .To cover high risk in low premium is the specialty of this product. If a person has taken loan from Bank/Finance and insured under this plan the liability against his loan would be borne by the related insurance company.
+
+<strong>Features of New Term Life Insurance</strong>:
+<ol>
+	<li>In this plan we have 5,10,15,20,25 and 30 years of Term.</li>
+	<li>Minimum S.A is 1,00,000/- and maximum S.A depends upon the income source of the life to be assured.</li>
+	<li>Minimum entry age is 18 yrs and maximum entry age is 60 yrs.</li>
+	<li>The mode of payment is either yearly or half yearly .</li>
+	<li>5% rebates on premium for above 1000000 Sum Assured .</li>
+	<li>Riders are not applicable in this plan.</li>
+</ol>
+*.?Under this Plan Full S.A. payable in case of Death of Life to be assured on Inforce policy.",
+				"issue_date" : "2011-07-04",
+				"view" : "2411"
+            }
+        ]
+    }
+}
