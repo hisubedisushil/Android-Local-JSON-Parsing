@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_main"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="JSON Parsing in Android, From Local to Online API"
+        style="@style/CustomHeadingStyle"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="An Easy and Appropriate Method"
+        style="@style/CustomHeadingStyle"
+        android:textSize="21sp"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/content_main_button_local_json"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Local JSON"
+        style="@style/CustomButtonStyle"/>
+
+    <Button
+        android:id="@+id/content_main_button_online_json"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Online API JSON"
+        style="@style/CustomButtonStyle"/>
+
+    <Button
+        android:id="@+id/content_main_button_about_me"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="About Me"
+        style="@style/CustomButtonStyle"
+        android:background="@color/orange"/>
+
+
+
+</LinearLayout>
